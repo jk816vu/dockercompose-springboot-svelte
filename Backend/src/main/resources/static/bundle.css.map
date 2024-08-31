@@ -2,10 +2,10 @@
   "version": 3,
   "file": "bundle.css",
   "sources": [
-    "../../../../../Frontend/src/App.svelte"
+    "..\\..\\..\\..\\..\\Frontend\\src\\App.svelte"
   ],
   "sourcesContent": [
-    "<script>\n\texport let name;\n</script>\n\n<style>\n\th1 {\n\t\tcolor: purple;\n\t}\n</style>\n\n<h1>Hello {name}!</h1>\n"
+    "<script>\r\n\texport let name;\r\n</script>\r\n\r\n<style>\r\n\th1 {\r\n\t\tcolor: purple;\r\n\t}\r\n</style>\r\n\r\n<h1>Hello {name}!</h1>\r\n"
   ],
   "names": [],
   "mappings": "AAKC,EAAE,cAAC,CAAC,AACH,KAAK,CAAE,MAAM,AACd,CAAC"
